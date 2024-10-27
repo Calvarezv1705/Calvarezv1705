@@ -1,16 +1,14 @@
 <h1 align="center">Hi , I'm Camilo Alvarez Villegas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6495ED&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Competitive+Programmer;Always+learning+new+things;Build+the+future+one+line+at+a+time;Dream+in+code+build+with+purpose">
 </a>
-
-
-
 </p>
 
-<br>
-
-<p align="center"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -22,6 +20,15 @@
 ✍️ &nbsp;In my free time, I enjoy to learn new thing of tecnology and exercising and staying active.\
 💬 &nbsp;I'm open to work, internships, or project collaborations. Feel free to reach out to discuss ideas!.\
 ✉️ &nbsp;you can contact me through these emails camiloalvarez1705@gmail.com or calvarezv1@eafit.edu.co
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💻 &nbsp;GitHub Analytics
+
+<a href="https://github.com/Calvarezv1705">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Calvarezv1705&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Calvarezv1705&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 ### ⚙️ &nbsp;Lenguages
 
@@ -35,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,clion,pycharm"/>
 </a>
 
-&nbsp;Contact With Me 🤝 
+### &nbsp;Contact With Me 🤝 
 
 <a href="https://www.linkedin.com/in/camilo-alvarez-895276321/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
@@ -53,10 +60,4 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="50" width="50" />
 </a>
 
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
