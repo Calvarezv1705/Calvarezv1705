@@ -35,13 +35,13 @@
     <img src="https://skillicons.dev/icons?i=vscode,clion,pycharm"/>
 </a>
 
-### &nbsp;Contact With Me 🤝 
+&nbsp;Contact With Me 🤝 
 
 <a href="https://www.linkedin.com/in/camilo-alvarez-895276321/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
 <a href="https://x.com/CamiloAV_1705" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/X_logo_%282022%29.svg" alt="x" height="50" width="50" />
+    <img align="center" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="x" height="50" width="50" />
 </a> 
 <a href="https://www.instagram.com/_camilo_1705/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
@@ -49,13 +49,9 @@
 <a href="https://discord.com/users/camilo_1705" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
 </a>
-<a href="mailto:tu_correo@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Gmail_Logo.svg" alt="gmail" height="50" width="50" />
-</a>
-<a href="https://wa.me/573001234567" target="blank">
+<a href="https://wa.me/573103885510" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="50" width="50" />
 </a>
-
 
 
 
