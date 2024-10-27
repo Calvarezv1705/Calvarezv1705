@@ -18,8 +18,8 @@
 💡 &nbsp;Programming is an art that transforms ideas into reality and sparks creativity.<br><br>
 🎓 &nbsp;I'm currently studying software engineer at the University of EAFIT.<br><br>
 🌱 &nbsp;I'm learning about Artificial Intelligence and new programming languages.<br><br>
-✍️ &nbsp;In my free time, I enjoy to learn new things about technology and exercising and staying active.<br><br>
-💬 &nbsp;I'm open to work, internships, or project collaborations. Feel free to reach out to discuss ideas!<br><br>
+✍️ &nbsp;In my free time, I like to learn new things, exercise and stay active.<br><br>
+💬 &nbsp;I'm open to work, internships, or project collaborations. Feel free to contact me!<br><br>
 ✉️ &nbsp;You can contact me through these emails: camiloalvarez1705@gmail.com or calvarezv1@eafit.edu.co
 </span>
 
