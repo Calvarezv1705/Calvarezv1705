@@ -14,18 +14,16 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-💡 &nbsp;Programming is an art that transforms ideas into reality and sparks creativity.\
-<br>
-🎓 &nbsp;I'm currently studying software engineer at the University of EAFIT.\
-<br>
-🌱 &nbsp; I'm learning about Artificial Intelligence and new programming languages.\
-<br>
-✍️ &nbsp;In my free time, I enjoy to learn new thing of tecnology and exercising and staying active.\
-<br>
-💬 &nbsp;I'm open to work, internships, or project collaborations. Feel free to reach out to discuss ideas!.\
-<br>
-✉️ &nbsp;you can contact me through these emails camiloalvarez1705@gmail.com or calvarezv1@eafit.edu.co
+<span style="font-size: 18px; line-height: 1.6;">
+💡 &nbsp;Programming is an art that transforms ideas into reality and sparks creativity.<br><br>
+🎓 &nbsp;I'm currently studying software engineer at the University of EAFIT.<br><br>
+🌱 &nbsp;I'm learning about Artificial Intelligence and new programming languages.<br><br>
+✍️ &nbsp;In my free time, I enjoy to learn new things about technology and exercising and staying active.<br><br>
+💬 &nbsp;I'm open to work, internships, or project collaborations. Feel free to reach out to discuss ideas!<br><br>
+✉️ &nbsp;You can contact me through these emails: camiloalvarez1705@gmail.com or calvarezv1@eafit.edu.co
+</span>
 
+<br>
 <br>
 
 ### 💻 &nbsp;GitHub Analytics
@@ -70,7 +68,5 @@
 <a href="https://wa.me/573103885510" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="50" width="50" />
 </a>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
