@@ -26,7 +26,7 @@
 <br>
 ✉️ &nbsp;you can contact me through these emails camiloalvarez1705@gmail.com or calvarezv1@eafit.edu.co
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ### 💻 &nbsp;GitHub Analytics
 
@@ -35,17 +35,23 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Calvarezv1705&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
+<br>
+
 ### ⚙️ &nbsp;Lenguages
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cpp" />
 </a>
 
+<br>
+
 ### 🔧 &nbsp;IDE 
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,clion,pycharm"/>
 </a>
+
+<br>
 
 ### &nbsp;Contact With Me 🤝 
 
@@ -64,5 +70,7 @@
 <a href="https://wa.me/573103885510" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="50" width="50" />
 </a>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
