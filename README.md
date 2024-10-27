@@ -62,8 +62,8 @@
 <a href="https://www.instagram.com/_camilo_1705/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
 </a>
-<a href="https://discord.com/users/camilo_1705" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+<a href="https://www.facebook.com/profile.php?id=61567825890518" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="50" width="50" />
 </a>
 <a href="https://wa.me/573103885510" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="50" width="50" />
